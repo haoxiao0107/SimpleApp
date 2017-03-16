@@ -1,32 +1,28 @@
-FastApp
+SimpleApp
 ---------
-FastApp是一个轻量级急速开发框架，基于Fragment+RxJava+Retrofit 2.0+Glide+Realm构建，采用Material Design设计风格，帮助开发者快速构建轻量级应用。当然，由于本项目是为了说明博客中提到的一些问题，因此早期并未让其复杂化。另外，为了让它富有生机，给它起名为“师父说”.
+SimpleApp是一个轻量级急速开发框架，基于Fragment+RxJava+Retrofit 2.0+Glide+Realm构建，采用Material Design设计风格，帮助开发者快速构建轻量级应用。当然，由于本项目是为了说明博客中提到的一些问题，因此早期并未让其复杂化。另外，为了让它富有生机，给它起名为“师父说”.
 
 本项目基于Material Design+RxJava+Retrofit 2.0+Glide+Realm构建了一个良好MVC架构的客户端模型，对新手友好度更高。
 
 
-本项目仍在不断的完善阶段，欢迎及时向我反馈[ISSUES][1]，[email][2]。如果对你有帮助欢迎点个star、fork.另外也欢迎欢迎关注[代码之道，编程之法][3]
-
+本项目仍在不断的完善阶段，如果对你有帮助欢迎点个star、fork。
 ---------------
 
 Preview
 -------------
 
-![此处输入图片的描述][4]
+![此处输入图片的描述][1]
 
-![此处输入图片的描述][5]
+![此处输入图片的描述][2]
 
-
-![此处输入图片的描述][6]
-
-![此处输入图片的描述][7]
+![此处输入图片的描述][3]
 
 --------------------
 
 Download
 ----------
-(Android 5.0 or above)
-[点击下载最新版][8]
+(Android 4.0 or above)
+[点击下载最新版][4]
 
 
 ---------------
@@ -95,14 +91,7 @@ Version
 
 --------------------
 
-
-
-
-  [1]: https://github.com/closedevice/FastApp/issues
-  [2]: closedevice@gmail.com
-  [3]: http://blog.csdn.net/dd864140130
-  [4]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/appstart.png
   [5]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/gan.png
   [6]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/wx.png
   [7]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/settingspng.png
-  [8]: http://fir.im/l7ta
+  [8]: http://fir.im/x6w5
