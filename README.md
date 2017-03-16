@@ -91,7 +91,7 @@ Version
 
 --------------------
 
-  [5]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/gan.png
-  [6]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/wx.png
-  [7]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/settingspng.png
-  [8]: http://fir.im/x6w5
+  [1]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/gan.png
+  [2]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/wx.png
+  [3]: https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/settingspng.png
+  [4]: http://fir.im/x6w5
